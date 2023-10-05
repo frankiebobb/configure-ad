@@ -38,7 +38,8 @@ This tutorial provides a guide on how to deploy on-premises Active Directory wit
 
    - Connect to Client-1 using Remote Desktop and ping DC-1's private IP address.
    - If the ping fails, log in to DC-1 and enable ICMPv4 in the local Windows Firewall.
-     ![image](https://github.com/JasonDelahoussaye/Configuring_On-premises_Active_Directory_within_Azure_VMs/assets/106440235/fee0c53a-2509-40fe-a550-e9e269dec8e3)
+   ![image](https://github.com/JasonDelahoussaye/Configuring_On-premises_Active_Directory_within_Azure_VMs/assets/106440235/fee0c53a-2509-40fe-a550-e9e269dec8e3)
+
 ![image](https://github.com/JasonDelahoussaye/Configuring_On-premises_Active_Directory_within_Azure_VMs/assets/106440235/d80f9262-0885-4213-b73e-031e6711dbe6)
 
    - Verify that the ping from Client-1 to DC-1 succeeds.
